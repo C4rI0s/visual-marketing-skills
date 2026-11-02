@@ -1,0 +1,37 @@
+{
+  "name": "piezas-graficas",
+  "version": "2.4.0",
+  "description": "Cinco looks de campaña con nivel de agencia para cualquier marca, cada uno con guía medida y plantillas en hero 16:9, 1:1, 4:5, banner de X y story a PNG 2x: producto en contexto (la app sobre un degradado con capas flotantes, estilo Proton), oscuro glow (fintech/trading con halo contenido y cifras), editorial recorte (collage de recortes con líneas de construcción), producto 3D con mascota y tech grid (cuadrícula, marcos y pistas de circuito). Cada look trae su pieza golden y un bucle de pulido obligatorio (comparar.mjs, 2 vueltas, todo ≥ 8). Sujetos de verdad: tus fotos (recorte, halo y luz del look automáticos), una librería 3D con tus colores (teclado, ratón, cascos, torre, mascota) o IA con Higgsfield con tope de gasto. Más portadas, OG, heros y un exportador que revisa cortes, choques, contraste, brillos por look, texto encima de los recortes, siluetas, halos y restos de la plantilla de ejemplo.",
+  "author": {
+    "name": "C4rI0s",
+    "url": "https://github.com/C4rI0s"
+  },
+  "homepage": "https://github.com/C4rI0s/visual-marketing-skills",
+  "repository": "https://github.com/C4rI0s/visual-marketing-skills",
+  "license": "MIT",
+  "keywords": [
+    "banner",
+    "miniatura",
+    "thumbnail",
+    "og image",
+    "story",
+    "portada",
+    "higgsfield",
+    "ia",
+    "marca",
+    "cualquier marca",
+    "producto",
+    "mockup",
+    "producto en contexto",
+    "hero",
+    "looks",
+    "oscuro glow",
+    "editorial",
+    "recorte",
+    "3d",
+    "mascota",
+    "tech grid",
+    "gaming",
+    "fintech"
+  ]
+}
